@@ -10,9 +10,12 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "lucide-react": "^1.47.0",
+    "motion": "^13.4.0",
     "next": "16.3.5",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "sonner": "^2.0.1"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.2",
@@ -24,5 +27,5 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   },
-  "packageManager": "pnpm@11.1.1"
+  "packageManager": "pnpm@12.5.1"
 }
